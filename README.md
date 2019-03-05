@@ -1,2 +1,2 @@
-# hello-world
-Hello World
+# Self Promotion
+Business Intelligence Developer/Analyst
